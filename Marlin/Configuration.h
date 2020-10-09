@@ -983,7 +983,7 @@
  *     |    [-]    |
  *     O-- FRONT --+
  */
-#define NOZZLE_TO_PROBE_OFFSET {  -42, -12, 0 }
+#define NOZZLE_TO_PROBE_OFFSET {  -44, -4, 0 }
 //#define NOZZLE_TO_PROBE_OFFSET {  38.5, 0, 0 } //Bondtech BMG Bltouch
 
 // Most probes should stay away from the edges of the bed, but
